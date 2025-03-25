@@ -18,7 +18,8 @@ I'm a Computer Engineering student passionate about coding, embedded systems, an
 # How to Contact Me
 Do you have ideas, questions, or collaboration proposals? Feel free to reach out:
 
-Email: simonegrimaldi@gmail.com \\
+Email: simonegrimaldi@gmail.com 
+
 Instagram: [simone](https://www.instagram.com/simonegrimaaldi/)
 
 <!--
