@@ -1,7 +1,7 @@
 ## Hello, I'm Simone 👋🏻
 
 # About Me
-I'm a Computer Engineering student passionate about coding, embedded systems, and software development. I love exploring different programming languages and building projects that solve real-world problems.
+I'm a Computer Engineering student passionate about coding, software development and cloud data engineering. I love exploring different programming languages and building projects that solve real-world problems.
 
 # Programming & Development
 - Java 
