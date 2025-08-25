@@ -15,6 +15,17 @@ I'm a Computer Engineering student passionate about coding, embedded systems, an
 - Arduino
 - Microcontrollers & Electronics
 
+## ☁️ Cloud & Data Engineering
+Knowledge acquired through an industrial project/thesis on **Google Cloud Platform (GCP)**, with a strong focus on **security**, **privacy**, and **GDPR compliance**.
+
+- **Serverless ETL Pipelines**: Cloud Run / Cloud Functions / Cloud Scheduler → BigQuery  
+- **Data Security & Privacy**: Cloud DLP/SDP, deterministic & non-deterministic encryption with **Cloud KMS**  
+- **Access Control**: **IAM** with least privilege principle  
+- **Data Modeling & Analytics**: denormalized data loaded into **BigQuery** for large-scale analysis  
+- **Best Practices**: cloud-native architectures, observability, and operational sustainability  
+
+> Goal: building secure, compliant, and scalable cloud-native solutions for data-driven organizations.
+
 # How to Contact Me
 Do you have ideas, questions, or collaboration proposals? Feel free to reach out:
 
