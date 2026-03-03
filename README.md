@@ -6,6 +6,7 @@ I'm a Computer Engineering student passionate about coding, software development
 # Programming & Development
 - Java 
 - C
+- Python
 - Assembly
 - Verilog
 - Bash Shell Scripting
